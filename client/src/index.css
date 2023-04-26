@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  
+}
+html,body{
+  background-color: aqua;
+  background-image: linear-gradient(to bottom right, #FDFCFB, #E2D1C3);
+  height: 100%;
+}
